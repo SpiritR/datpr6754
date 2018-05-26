@@ -1,13 +1,13 @@
-id,geounit,GPP,GDP-PC
-3, Brazil,3219,15500
-1, Argentina,911,20700
-5, Colombia,712,14500
-4, Chile,452,24600
-10, Peru,424,13300
-14, Venezuela,389,12400
-6, Ecuador,188,11200
-2, Bolivia,83,7500
-13, Uruguay,78,22400
-11, Paraguay,68,9800
-12, Suriname,7,13900
-9, Guyana,6,8300
+id,geounit,GPP,GDP-PC,unmep
+3, Brazil,3219,15500,13.1
+1, Argentina,911,20700,8.1
+5, Colombia,712,14500,9.3
+4, Chile,452,24600,7
+10, Peru,424,13300,6.7
+14, Venezuela,389,12400,26.4
+6, Ecuador,188,11200,5.1
+2, Bolivia,83,7500,4
+13, Uruguay,78,22400,7.3
+11, Paraguay,68,9800,6.5
+12, Suriname,7,13900,9.1
+9, Guyana,6,8300,11.1
