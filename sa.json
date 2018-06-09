@@ -3904,7 +3904,7 @@
                         "type": "Geo subunit",
                         "geounit": "Chile"
                     },
-                    "id": 4
+                    "id": "Chile"
                 },
                 {
                     "arcs": [
@@ -3921,7 +3921,7 @@
                         "type": "Sovereign country",
                         "geounit": "Colombia"
                     },
-                    "id": 5
+                    "id": "Colombia"
                 },
                 {
                     "arcs": [
