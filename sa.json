@@ -3858,7 +3858,7 @@
                         "type": "Sovereign country",
                         "geounit": "Brazil"
                     },
-                    "id": "Brazil"
+                    "id": 3
                 },
                 {
                     "arcs": [
@@ -3904,7 +3904,7 @@
                         "type": "Geo subunit",
                         "geounit": "Chile"
                     },
-                    "id": "Chile"
+                    "id": 4
                 },
                 {
                     "arcs": [
@@ -3921,7 +3921,7 @@
                         "type": "Sovereign country",
                         "geounit": "Colombia"
                     },
-                    "id": "Colombia"
+                    "id": 5
                 },
                 {
                     "arcs": [
@@ -3936,7 +3936,7 @@
                         "type": "Geo subunit",
                         "geounit": "Ecuador"
                     },
-                    "id": "Ecuador"
+                    "id": 6
                 },
                 {
                     "arcs": [
@@ -3949,7 +3949,7 @@
                         "type": "Geo subunit",
                         "geounit": "Ecuador"
                     },
-                    "id": "Ecuador"
+                    "id": 6
                 },
                 {
                     "arcs": [
@@ -3969,7 +3969,7 @@
                         "type": "Dependency",
                         "geounit": "Falkland Islands"
                     },
-                    "id": "Falkland Islands"
+                    "id": 7
                 },
                 {
                     "arcs": [
@@ -3984,7 +3984,7 @@
                         "type": "Geo unit",
                         "geounit": "French Guiana"
                     },
-                    "id": "French Guiana"
+                    "id": 8
                 },
                 {
                     "arcs": [
@@ -4000,7 +4000,7 @@
                         "type": "Sovereign country",
                         "geounit": "Guyana"
                     },
-                    "id": "Guyana"
+                    "id": 9
                 },
                 {
                     "arcs": [
@@ -4018,7 +4018,7 @@
                         "type": "Sovereign country",
                         "geounit": "Peru"
                     },
-                    "id": "Peru"
+                    "id": 10
                 },
                 {
                     "arcs": [
@@ -4033,7 +4033,7 @@
                         "type": "Sovereign country",
                         "geounit": "Paraguay"
                     },
-                    "id": "Paraguay"
+                    "id": 11
                 },
                 {
                     "arcs": [
@@ -4049,7 +4049,7 @@
                         "type": "Sovereign country",
                         "geounit": "Suriname"
                     },
-                    "id": "Suriname"
+                    "id": 12
                 },
                 {
                     "arcs": [
@@ -4064,7 +4064,7 @@
                         "type": "Sovereign country",
                         "geounit": "Uruguay"
                     },
-                    "id": "Uruguay"
+                    "id": 13
                 },
                 {
                     "arcs": [
@@ -4080,7 +4080,7 @@
                         "type": "Sovereign country",
                         "geounit": "Venezuela"
                     },
-                    "id": "Venezuela"
+                    "id": 14
                 }
             ]
         }
