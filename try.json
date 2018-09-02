@@ -18,8 +18,8 @@
     },
     "objects":{
         "municipios":{
-            "type": "GeometryCollection",
-            "geometries": [
+            "type": "FeatureCollection",
+            "features": [
                 {
                     "type": "Feature",
                     "id": "Quebradillas",
