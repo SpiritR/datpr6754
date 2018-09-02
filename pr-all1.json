@@ -9,17 +9,6 @@
                     "name": "urn:ogc:def:crs:EPSG:2866"
                 }
             },
-            "hc-transform": {
-                "default": {
-                    "crs": "+proj=lcc +lat_1=18.43333333333333 +lat_2=18.03333333333334 +lat_0=17.83333333333333 +lon_0=-66.43333333333334 +x_0=200000 +y_0=200000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs",
-                    "scale": 0.00245687345649,
-                    "jsonres": 15.5,
-                    "jsonmarginX": -999,
-                    "jsonmarginY": 9851,
-                    "xoffset": 40755.029969,
-                    "yoffset": 276437.639241
-                }
-            },
             "geometries": [
                 {
                     "type": "Polygon",
