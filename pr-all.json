@@ -2,12 +2,7 @@
     "type": "Topology",
     "objects": {
         "collection": {
-            "title": "Puerto Rico",
-            "version": "1.1.2",
             "type": "GeometryCollection",
-            "copyright": "Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau",
-            "copyrightShort": "USA Census Bureau",
-            "copyrightUrl": "http://www.census.gov",
             "crs": {
                 "type": "name",
                 "properties": {
@@ -28,7 +23,7 @@
             "geometries": [
                 {
                     "type": "Polygon",
-                    "id": "PR.3614.115",
+                    "id": "Quebradillas",
                     "arcs": [
                         [
                             0,
@@ -40,7 +35,7 @@
                 },
                 {
                     "type": "Polygon",
-                    "id": "PR.3614.095",
+                    "id": "Maunabo",
                     "arcs": [
                         [
                             4,
